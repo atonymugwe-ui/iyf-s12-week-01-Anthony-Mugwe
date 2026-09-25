@@ -1,18 +1,18 @@
 <h1>Week 00: Git and GitHub Collaborative Environment Setup</h1>
 
-Author
+<h2>Author</h2>
 
 Name: Anthony mugwe 
 GitHub: @Anthony mugwe
 Date: September 25, 2026
 
-Project Description
+<h3>Project Description</h3>
 
 This repository documents my Week 0 Git and GitHub setup and learning journey. It demonstrates my understanding of Git, GitHub repositories, version control, branching, commits, and collaborative development workflows.
 
 The project was created as part of my Practical Web Development Training and serves as the foundation for managing my future web-development projects using Git and GitHub.
 
-Technologies Used
+<h4>Technologies Used</h4>
 
 - Git
 - GitHub
@@ -21,7 +21,7 @@ Technologies Used
 - Visual Studio Code
 - HTML
 
-Features
+<h5>Features</5>
 
 - Git repository initialization and management.
 - Creating and working with GitHub repositories.
@@ -32,7 +32,7 @@ Features
 - Understanding collaborative GitHub workflows.
 - Using Markdown to document projects.
 
-How to Run
+<h6>How to Run</h6>
 
 Clone this repository:
 
@@ -46,19 +46,19 @@ Open the project in Visual Studio Code:
 
 code .
 
-Lessons Learned
+<h7>Lessons Learned</h7>
 
 During Week 00, I learned how Git and GitHub work together to manage and track changes in software projects.
 
 I practiced creating repositories, making commits, working with branches, connecting local projects to GitHub, and pushing my work to a remote repository.
 
-Challenges Faced
+<h8>Challenges Faced</h8>
 
 One of the main challenges I faced was understanding how Git works with local folders and GitHub repositories. I encountered errors when running Git commands outside a Git repository.
 
 I learned how to navigate to the correct project folder, initialize or clone a repository, check the repository status, and use Git commands correctly.
 
-Conclusion
+<h9>Conclusion</h9>
 
 Week 00 gave me a strong foundation in Git and GitHub. I can now create repositories, manage project files, make commits, create branches, and synchronize my work with GitHub.
 
