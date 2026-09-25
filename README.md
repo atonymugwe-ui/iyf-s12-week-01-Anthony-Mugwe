@@ -1,4 +1,4 @@
-Week 00: Git and GitHub Collaborative Environment Setup
+<h1>Week 00: Git and GitHub Collaborative Environment Setup</h1>
 
 Author
 
